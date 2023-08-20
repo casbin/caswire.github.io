@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcaswire_website=self.webpackChunkcaswire_website||[]).push([[141],{7396:e=>{e.exports=JSON.parse('{"label":"caswire","permalink":"/fr/blog/tags/caswire","allTagsPath":"/fr/blog/tags","count":1}')}}]);
