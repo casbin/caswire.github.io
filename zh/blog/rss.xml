@@ -4,7 +4,7 @@
         <title>Caswire · An open-source host-based anti-virus, firewall and IDS (Intrusion Detection System) platform Blog</title>
         <link>https://caswire.org/zh/blog</link>
         <description>Caswire · An open-source host-based anti-virus, firewall and IDS (Intrusion Detection System) platform Blog</description>
-        <lastBuildDate>Sun, 20 Aug 2023 13:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 15:34:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Welcome]]></title>
             <link>https://caswire.org/zh/blog/welcome</link>
             <guid>https://caswire.org/zh/blog/welcome</guid>
-            <pubDate>Sun, 20 Aug 2023 13:08:05 GMT</pubDate>
+            <pubDate>Sun, 10 Sep 2023 15:34:47 GMT</pubDate>
             <description><![CDATA[Welcome to Caswire website!]]></description>
             <content:encoded><![CDATA[<p>Welcome to Caswire website!</p>]]></content:encoded>
             <category>caswire</category>
