@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://caswire.org/zh/blog</id>
     <title>Caswire · An open-source host-based anti-virus, firewall and IDS (Intrusion Detection System) platform Blog</title>
-    <updated>2023-09-10T15:34:47.000Z</updated>
+    <updated>2023-10-21T12:22:11.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://caswire.org/zh/blog"/>
     <subtitle>Caswire · An open-source host-based anti-virus, firewall and IDS (Intrusion Detection System) platform Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://caswire.org/zh/blog/welcome</id>
         <link href="https://caswire.org/zh/blog/welcome"/>
-        <updated>2023-09-10T15:34:47.000Z</updated>
+        <updated>2023-10-21T12:22:11.000Z</updated>
         <summary type="html"><![CDATA[Welcome to Caswire website!]]></summary>
         <content type="html"><![CDATA[<p>Welcome to Caswire website!</p>]]></content>
         <author>
